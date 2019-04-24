@@ -1,0 +1,11 @@
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\bin\Debug\NoSleep_v2.exe.config
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\bin\Debug\NoSleep_v2.exe
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\bin\Debug\NoSleep_v2.pdb
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.csprojAssemblyReference.cache
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.Form1.resources
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.Properties.Resources.resources
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.csproj.GenerateResource.cache
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.csproj.CoreCompileInputs.cache
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.exe
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.pdb
+C:\Users\brian.wisniewski\source\repos\NoSleep_v2\NoSleep_v2\obj\Debug\NoSleep_v2.About.resources
