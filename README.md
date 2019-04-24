@@ -12,4 +12,5 @@ Upon minimization, a notification is called to alert the user the software has b
 Enjoy!
 
 ## UI Design
-![alt text](/UI_Image.png "UI Image")
+
+![alt tag](/UI_Image.png?raw=true "UI Image")
