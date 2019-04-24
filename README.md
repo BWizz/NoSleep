@@ -5,8 +5,11 @@ Every 60 seconds, the windows ES_DISPLAY_REQUIRED and ES_CONTINIOUS bits are res
 
 While the application is running, the NoSleep mode easily enabled and disabled via simple radio button.
 
-In addition, the last time the reset occured, a time stamp is displayed in a simple text box.
+In addition, while NoSleep is enabled, a continuous time since last reset timestamp is displayed in a simple text box.
 
 Upon minimization, a notification is called to alert the user the software has been minimized to the system tray.
 
 Enjoy!
+
+## UI Design
+![](UI_Image.png)
