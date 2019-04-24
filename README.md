@@ -12,4 +12,4 @@ Upon minimization, a notification is called to alert the user the software has b
 Enjoy!
 
 ## UI Design
-![](UI_Image.png)
+![alt text](/UI_Image.png "UI Image")
