@@ -13,4 +13,4 @@ Enjoy!
 
 ## UI Design
 
-![alt tag](/UI_Image.png?raw=true "UI Image")
+![alt tag](https://github.com/BWizz/NoSleep/blob/master/UI_Image.PNG "UI Image")
